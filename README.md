@@ -1,3 +1,4 @@
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]
 # DivisorFinder
 How to use
 1. Just enter any number
